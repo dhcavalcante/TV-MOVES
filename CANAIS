@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/sportv-logo.jpg" group-title="ESPORTES", SPORTV
+https://streaming.belugacdn.link/hls1/SporTV1.m3u8?expires=1601946381&token=4d9f98be16cb0e0a60004e802e1853bb
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/24/73/ba/2473ba759a948e425da7d22f4542b3ce.jpg" group-title="ESPORTES", SPORTV2
+https://streaming.belugacdn.link/hls1/sportv2.m3u8?expires=1601945176&token=ddf7d982852a1a914d61a28f92ac866d
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/404945?w=646&h=284" group-title="ESPORTES", ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ESPORTES", ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="ESPORTES", ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1992229303.m3u8
+#EXTINF:-1 tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/06/fox-sports-logo-20120327-01-original.jpeg" group-title="ESPORTES", FOX SPORTS
+https://streaming.belugacdn.link/hls1/foxsports1.m3u8?expires=1601945082&token=f9d3d14f7d5f692b895681394fc66022
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/42/36/77/423677e51cb22a371afe0e664c9d5d55.png" group-title="ESPORTES", FOX PREMIUM 1
+https://streaming.belugacdn.link/hls1/FoxPremium1.m3u8?expires=1601945817&token=163d923224ce991bed3000cfdbcd5b2f
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2009/07/logo-canal-fx-890x501.jpg" group-title="FILMES", FX
+https://streaming.belugacdn.link/hls1/fx.m3u8?expires=1601945961&token=d20c56798938e6202bd8be92db54cfdc
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Pafx_iy5qRE/WFdQ5utqJdI/AAAAAAAAzOQ/o74D9HuS8iAXZVNkSmZJw6WrCuf3udrPgCLcB/s1600/fox-generic.png" group-title="FILMES", FOX CHANNEL
+https://streaming.belugacdn.link/hls1/fox.m3u8?expires=1601946095&token=b539add6b25d6c75e0d5b0f0de73f2da
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES", BAND SPORTS
+https://streaming.belugacdn.link/hls1/bandsports.m3u8?expires=1601944620&token=3df4bb624e9b0aa0a994609b1e065c6b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="ESPORTES", TNT
+https://streaming.belugacdn.link/hls1/tnt.m3u8?expires=1601945474&token=eb0963398b98d440ecfa7b8e08c3ef52
+#EXTINF:-1 tvg-logo="https://viaembratelce.files.wordpress.com/2011/12/pfc_logo255b1255d.jpg" group-title="ESPORTES", PREMIER CLUBE
+https://streaming.belugacdn.link/hls1/premiereclubes.m3u8?expires=1601947106&token=ae03d8c44d20f17e220f3767793a6b40
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS", CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS", BANDNEWS
+https://streaming.belugacdn.link/hls1/bandnews.m3u8?expires=1601944711&token=5caa3b20f3994df477131858dc1d875e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/GloboNews_Em_Pauta.png" group-title="NOTÍCIAS", GLOBO NEWS
+https://streaming.belugacdn.link/hls1/globonews.m3u8?expires=1601945386&token=edfdf8b3eb36aa62fe6b9d400ec746ec
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j_QTaQKtsL0/XXgtIZTj4aI/AAAAAAAAG0U/rRI7RRQWFOUoBqDIorrGRqzxzBVNKafSgCLcBGAsYHQ/s1600/VIVA.jpg" group-title="VARIEDADES", VIVA
+https://streaming.belugacdn.link/hls1/viva.m3u8?expires=1601946593&token=aafb78126ba2346753fd273abc56b13f
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M1ctauyIjXs/XXfSuQrYgjI/AAAAAAAAGvI/x4sM7NOj4EM25hhwzi2zt9uBPVH1zg3XQCLcBGAs/s1600/WARNER%2BBROS.jpg" group-title="FILMES", WARNER TV
+https://streaming.belugacdn.link/hls1/warner.m3u8?expires=1601946731&token=bd9e5d616f8ec2bf4ceeb0a636e5f441
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LKCHRqCGkjE/XXfjSgPOBeI/AAAAAAAAGyQ/RTAPVYardjAdsrWEKZ_nUxwxW3kYNv2JgCLcBGAs/s1600/GLOOB.jpg" group-title="VARIEDADES", GLOOB
+https://streaming.belugacdn.link/hls1/gloob.m3u8?expires=1601946844&token=ba8d017f870242ede3cb020149960ad5
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2Cjpry3Xfdg/XXbtHLMYJJI/AAAAAAAAGrs/aCD1PxoTHRUgSObFFdctopq4_xwUoCqMwCLcBGAs/s1600/HBO%2BHD.jpg" group-title="FILMES", HBO
+https://streaming.belugacdn.link/hls1/hbo.m3u8?expires=1601947013&token=ba35c9882cba5b2baed2d02be4fdb11c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
