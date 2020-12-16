@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/404945?w=646&h=284" group-title="ESPORTES", ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_480_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ESPORTES", ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-espn-extra-ao-vivo-online-24-horas.png" group-title="ESPORTES", ESPN EXTRA
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/telaviva.com.br/wp-content/uploads/2018/08/espn2_.jpg?fit=418%2C235&ssl=1" group-title="ESPORTES", ESPN 2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_240_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/06/fox-sports-logo-20120327-01-original.jpeg" group-title="ESPORTES", FOX SPORTS
+https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1608087702&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=4292717bd43a46ad988792f67df9546262189c8c40c6aeac822c8c2a34f328b8&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=10028747bbcee3eae5021bd4d228a12cc124b3853d96bb8ca2d8c013920a6051&pbs=c7011a6e082e4cf3825d922677e330d8
+#EXTINF:-1 tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/06/fox-sports-logo-20120327-01-original.jpeg" group-title="ESPORTES", FOX SPORTS 2
+https://content-asae1-up-2.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1608087811&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&iph=4292717bd43a46ad988792f67df9546262189c8c40c6aeac822c8c2a34f328b8&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=8d0ac970ab15162ec002f4b0c562752182aa8caf2073a737c68a4cafe4cebcdc&pbs=72c518620fd84c789ddd8d77d5329ba6
+
