@@ -28,7 +28,7 @@ https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e
 #EXTINF:-1 tvg-logo="https://www.lance.com.br/files/article_main/uploads/2018/08/29/5b86de45173e2.png" group-title="ESPORTES", FOX SPORTS ALTERNATIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="ESPORTES", BANDSPORTS 
-https://cdn.esporteone.com/BANDSPORTSHD/video.m3u8?md5=kK_nc0TksAUS81n0BbfFlg&expires=1616172624
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/bandsports_f53eac2e_fa830a4619a19dbb86b6d29c025c53c4af577ed9/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTc5LjE3Ni4xNTAuMTc1IjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4Ni4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg2LjAiO2k6MjtpOjE2MTYxNjM0Nzk7fQ%3D%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="ESPORTES", BANDSPORTS ALTERNATIVO
 https://geralorigin.eu-central-1.edge.mycdn.live/live/bandsportssd/video.m3u8?md5=rbK_DHwLLrfcTx05Mqrs4g&expires=1616196920
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" group-title="ESPORTES", BEINSPORTS 2
