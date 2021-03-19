@@ -12,7 +12,7 @@ https://zf8113m9dpznta9.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=ITumrJaGWg-W-t_
 #EXTINF:-1 tvg-logo="https://xua.centreletterboxes.pw/img/sporttv-1-guia-tv.png" group-title="ESPORTES", SPORTV PT02
 https://zf8113m9dpznta9.ezcdn462.net:8443/hls/60lewo5c36hzw.m3u8?s=gpQzpJU0xAmuwHWxGucXiQ&e=1616110463
 #EXTINF:-1 tvg-logo="https://xua.centreletterboxes.pw/img/sporttv-1-guia-tv.png" group-title="ESPORTES", SPORTV PT03
-https://pcn784ba5wp8rkk.ezcdn462.net:8443/hls/t69y1s69ffvz.m3u8?s=fItbO3ydC8N5dyC-4KaZ2w&e=1615969959
+https://geralorigin.eu-central-1.edge.mycdn.live/live/bandsportssd/video.m3u8?md5=rbK_DHwLLrfcTx05Mqrs4g&expires=1616196920
 #EXTINF:-1 tvg-logo="https://xua.centreletterboxes.pw/img/sporttv-1-guia-tv.png" group-title="ESPORTES", SPORTV PT04
 https://zf8113m9dpznta9.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=ITumrJaGWg-W-t_V3kh-tA&e=1616108805
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/404945?w=646&h=284" group-title="ESPORTES", ESPN BRASIL ALTERNATIVO
@@ -30,4 +30,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="ESPORTES", BANDSPORTS 
 https://cdn.esporteone.com/BANDSPORTSHD/video.m3u8?md5=kK_nc0TksAUS81n0BbfFlg&expires=1616172624
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="ESPORTES", BANDSPORTS ALTERNATIVO
+https://geralorigin.eu-central-1.edge.mycdn.live/live/bandsportssd/video.m3u8?md5=rbK_DHwLLrfcTx05Mqrs4g&expires=1616196920
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" group-title="ESPORTES", BEINSPORTS 2
 https://geralorigin.eu-central-1.edge.mycdn.live/live/bandsportssd/video.m3u8?md5=rbK_DHwLLrfcTx05Mqrs4g&expires=1616196920
