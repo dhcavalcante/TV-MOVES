@@ -41,5 +41,22 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/bandsportssd/video.m3u8?md
 https://zf8113m9dpznta9.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=ITumrJaGWg-W-t_V3kh-tA&e=1616108805
 #EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/splash/71/2021/03/18/poster-de-falcao-e-o-soldado-invernal-1616103706836_v2_600x800.jpg" group-title="FALCÃO E O SOLDADO INVERNAL", EP01
 https://video.wixstatic.com/video/189d4b_9c42ce9dfe54463a98047c61cab92d83/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg" group-title="WANDAVISION", EP01
+https://cwb.azureedge.net/RCServer15/ondemand/WNDVSNT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg" group-title="WANDAVISION", EP02
+https://cwb.azureedge.net/RCServer15/ondemand/WNDVSNT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg" group-title="WANDAVISION", EP03
+https://cwb.azureedge.net/RCServer15/ondemand/WNDVSNT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg" group-title="WANDAVISION", EP04
+https://cwb.azureedge.net/RCServer15/ondemand/WNDVSNT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg" group-title="WANDAVISION", EP05
+https://cwb.azureedge.net/RCServer15/ondemand/WNDVSNT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg" group-title="WANDAVISION", EP06
+https://cwb.azureedge.net/RCServer15/ondemand/WNDVSNT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg" group-title="WANDAVISION", EP07
+https://cwb.azureedge.net/RCServer15/ondemand/WNDVSNT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg" group-title="WANDAVISION", EP08
+https://video.wixstatic.com/video/189d4b_cf111aee09514a7eab400c2aa1f4577d/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg" group-title="WANDAVISION", EP09
 
 
